@@ -1,3 +1,5 @@
+/*
+
 4.4 Exercises
 
 Exercise  4.1 How does Prolog respond to the following queries?
@@ -82,3 +84,5 @@ Exercise  4.7 Draw the search trees for the following three queries:
    ?-  member(x,[a,b,c]).
    
    ?-  member(X,[a,b,c]).
+
+*/

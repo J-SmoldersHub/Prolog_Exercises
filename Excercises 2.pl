@@ -1,3 +1,5 @@
+/*
+
 2.3 Exercises
 Exercise  2.1 Which of the following pairs of terms unify? 
 Where relevant, give the variable instantiations that lead to successful unification.
@@ -65,3 +67,5 @@ Followed dobby
 A criminal eats a big_kahuna_burger
 
 Because of backtracking, the new result wil start from the Word5 everytime to look for a different route
+
+*/
